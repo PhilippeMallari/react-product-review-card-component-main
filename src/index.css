@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.font-link {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500 !important;
+}
+
+.font-link-two {
+  font-family: 'Fraunces', serif;
+  font-weight: 700 !important;
+}

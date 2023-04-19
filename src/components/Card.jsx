@@ -22,9 +22,9 @@ function BasicExample() {
                         src="./images/image-product-desktop.jpg"
                         style={{ height: '60%' }}
                         />
-                        <div style={{ marginLeft: '40px' }}>
+                        <div className="font-link" style={{ marginLeft: '40px' }}>
                             <h2>PERFUME</h2>
-                            <p>Gabrielle<br/>Essence Eau<br/>De Parfum</p>
+                            <h1 className="font-link-two">Gabrielle<br/>Essence Eau<br/>De Parfum</h1>
                             <p>
                                 A floral, solar and voluptous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL.
                             </p>
