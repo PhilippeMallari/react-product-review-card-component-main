@@ -26,8 +26,17 @@ function BasicExample() {
                             <h2>PERFUME</h2>
                             <p>Gabrielle<br/>Essence Eau<br/>De Parfum</p>
                             <p>
-                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed dolorum distinctio esse, dolores quidem facere autem? Blanditiis esse unde optio.
+                                A floral, solar and voluptous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL.
                             </p>
+                            <Container>
+                                <Row>
+                                    <Col>149.99</Col>
+                                    <Col>169.99</Col>
+                                </Row>
+                                <Row>
+                                    <Button>Add to Cart</Button>
+                                </Row>
+                            </Container>
                         </div>
                     </div>
                 </Col>
